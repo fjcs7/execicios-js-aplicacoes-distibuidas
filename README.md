@@ -1,0 +1,1 @@
+Projeto criado para treinar algumas habilidade em javascript com aplicações distribuidas.
